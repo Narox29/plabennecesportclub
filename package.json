@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "save": "^2.4.0"
+  }
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
